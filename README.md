@@ -60,6 +60,7 @@ The agent leverages multi-source data including macroeconomic indicators, minute
   - Predict exchange rate changes instead of only deciding actions.
   - Apply more advanced algorithms (Dueling DQN, Double DQN, PPO, etc.).
 - Since the training machine is a MacBook with an M1 chip, plans for further training with a larger number of episodes are currently on hold.
+- ⚡ Due to GitHub's file size limitations (e.g., max 100MB per file and transfer size restrictions), trained models and large data files are not uploaded.
 ---
 
 ## 🧠 News Sentiment Enhancement (BERT Fine-Tuning)
